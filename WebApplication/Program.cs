@@ -11,6 +11,7 @@ namespace WebApplication
 {
     public class Program
     {
+        //程式起始點
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
